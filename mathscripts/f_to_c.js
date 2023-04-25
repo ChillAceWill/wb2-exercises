@@ -4,4 +4,5 @@ var fahrenheit = 90;
 // Calculations
 var celcius = (fahrenheit - 30) / 2;
 
+// Output
 console.log("It is " + celcius + " degrees celcius.");
