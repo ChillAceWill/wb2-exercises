@@ -8,4 +8,4 @@ var double = money * 2;
 var time = rule / returnRate;
 
 // Output
-console.log;
+console.log();
